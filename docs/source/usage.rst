@@ -24,6 +24,8 @@ To use MobiXIM, first clone the repository:
 
    $ git clone git@github.com:doplab/mobixim-webplatform.git
 
+Install the required packages by running the following command.
+
 .. code-block:: console
 
    (.venv) $ pip install -r requirements.txt
