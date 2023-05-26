@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to MobiXIM's documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**MobiXIM** is an open source toolkit for building, testing and evaluating collaborative Indoor Tracking Systems.
+
+It provides a pipeline for collecting inertial data from android devices, importing the data into a design interface, running some algorithms and extracting the results.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
