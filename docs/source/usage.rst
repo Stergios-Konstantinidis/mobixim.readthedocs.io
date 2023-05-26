@@ -1,34 +1,34 @@
 Usage
 =====
 
+.. _demo:
+
+Demo
+----
+A demo of MobiXIM is available on the following link: [http://10.128.19.86/](http://10.128.19.86/).
+The credentials are:
+- username: `test`
+- password: `test`
+
+If you wish to install it on your local environment, refer to the following procedure
+
 .. _installation:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use MobiXIM, first clone the repository:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+$ git clone git@github.com:doplab/mobixim-webplatform.git
 
-Creating recipes
-----------------
+.. code-block:: console
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+   (.venv) $ pip install -r requirements.txt
 
-.. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Docker Image
+------------
 
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+A Docker image is available with a pre-built version for a quick deployment.
