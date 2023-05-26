@@ -1,9 +1,11 @@
-Template for the Read the Docs tutorial
+MobiXIM's documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This Github repository contains the documentation of the MobiXIM framework.
+MobiXIM is a framework built in Python to facilitate the designing, testing and evaluating process of Collaborative Indoor Tracking Systems.
 
-Read the tutorial here:
+The documentation covers the Companion App (https://github.com/doplab/mobixim-android) and the Webplatform (https://github.com/doplab/mobixim-webplatform).
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
+Feel free to contribute ❤️
+

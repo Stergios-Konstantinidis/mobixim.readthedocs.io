@@ -5,8 +5,9 @@ Usage
 
 Demo
 ----
-A demo of MobiXIM is available on the following link: [http://10.128.19.86/](http://10.128.19.86/).
+A demo of MobiXIM is available on the following link: http://10.128.19.86/.
 The credentials are:
+
 - username: `test`
 - password: `test`
 
