@@ -22,7 +22,7 @@ To use MobiXIM, first clone the repository:
 
 .. code-block:: console
 
-$ git clone git@github.com:doplab/mobixim-webplatform.git
+   $ git clone git@github.com:doplab/mobixim-webplatform.git
 
 .. code-block:: console
 
