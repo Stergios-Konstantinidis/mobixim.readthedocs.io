@@ -28,7 +28,7 @@ Install the required packages by running the following command.
 
 .. code-block:: console
 
-   (.venv) $ pip install -r requirements.txt
+   $ pip install -r requirements.txt
 
 
 Docker Image
