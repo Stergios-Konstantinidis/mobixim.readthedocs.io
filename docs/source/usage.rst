@@ -6,7 +6,7 @@ Usage
 Demo
 ----
 A demo of MobiXIM is available on the following link: http://10.128.19.86/.
-You can [create a new account](http://10.128.19.86/register) or use a demo account with the following credentials:
+You can `create a new account <http://10.128.19.86/register>`_ or use a demo account with the following credentials:
 
 - username: `test`
 - password: `testtest45`
