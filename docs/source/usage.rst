@@ -6,12 +6,12 @@ Usage
 Demo
 ----
 A demo of MobiXIM is available on the following link: http://10.128.19.86/.
-The credentials are:
+You can [create a new account](http://10.128.19.86/register) or use a demo account with the following credentials:
 
 - username: `test`
-- password: `test`
+- password: `testtest45`
 
-If you wish to install it on your local environment, refer to the following procedure
+If you wish to install it on your local environment, refer to the following procedure.
 
 .. _installation:
 
